@@ -1,0 +1,3 @@
+Foi criado uma classe Pessoa e Jurídica sendo a classe juridica um value  objects, salvando o nome 
+e código em uma super classe (pessoa) pois são variáveis em comum das classes juridica, fisica, fornecedor, etc.
+Atribuindo também as variáveis nomefantasia e CNPJ que sao distintas uma das outras.
